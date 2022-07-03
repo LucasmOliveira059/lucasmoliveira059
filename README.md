@@ -1,5 +1,5 @@
 # Hi  👋
-### 🔭 I’m currently working on FlexTronics like a Intern.
+### 🔭 I’m currently working on FlexTronics like an Intern.
 ### 🌱 I’m currently learning OpenStack
 
 
