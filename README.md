@@ -1,6 +1,6 @@
 # Hi  👋
-### 🔭 I’m currently working on FlexTronics like an Intern.
-### 🌱 I’m currently learning OpenStack
+### 🔭 I’m currently working at FlexTronics.
+### 🌱 And learning OpenStack
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmoliveira059&show_icons=true&theme=synthwave)
