@@ -1,5 +1,5 @@
 # Hi  👋
-### 🔭 I’m currently working at FlexTronics.
+### 🔭 I’m currently work at FlexTronics.
 ### 🌱 And learning OpenStack
 
 
